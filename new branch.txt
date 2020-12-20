@@ -1,3 +1,0 @@
-this is a file in new branch.
-i'll use git pull this file!
-cccccccccccc
