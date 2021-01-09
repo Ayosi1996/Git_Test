@@ -1,3 +1,4 @@
 this is dev text file in master branch!
 this is dev file in remote dev branch !
 Use A update the file!
+USER WANG Update feature A dev file
