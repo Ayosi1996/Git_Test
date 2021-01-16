@@ -1,3 +1,0 @@
-This is new feature AAAAAAAA
-feature A update 1
-user li update the feature a!
