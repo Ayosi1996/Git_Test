@@ -1,1 +1,2 @@
 this is a feature on master!
+another guy add a new feature.
